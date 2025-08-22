@@ -1,2 +1,5 @@
 # Power_BI
-Presentacion de Estadisticapetrolera
+Presentacion de Estadistica petrolera
+Contiene:
+Presentacion PowerBI
+Informe tecnico de presentacion
